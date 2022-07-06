@@ -171,10 +171,45 @@ footer{
 }
 .form-box input{
     font-size: 18px;
-    color:#D9D9D9
+    color:#D9D9D9;
+    padding:10px;
 }
 .form-box button{
-    color: #FF5959;
+    background-color: #FF5959;
     font-size: 20px;
-    border: 5x;
+    padding:10px;
+    margin-left: -5px;
+    border: 0;
+}
+.affect{
+    display: flex;
+    width: 100%;
+    margin: 6% auto;
+    text-align: center;
+}
+.mark{
+    width: 50%;
+    margin-left: 5%;
+}
+.mark img{
+    width:80%
+}
+.card{
+    text-align: center;
+}
+.effect{
+    display: flex;
+    width: 100%;
+    margin: 6% auto;
+    text-align: center;
+}
+.food{
+    width: 80%;
+    margin-left: 5%;
+}
+.food img{
+    width: 80%;
+}
+.report{
+    text-align: center;
 }
